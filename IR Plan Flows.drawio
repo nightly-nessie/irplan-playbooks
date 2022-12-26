@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T23:26:07.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q2BMwwjM1-SrjTa_xiWM" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-26T23:27:18.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pica0x7umznH1HMtjCRi" version="20.6.2" type="github" pages="7">
   <diagram id="ySvaeIhlYubQLGQfKe-j" name="Figure 1 IR Lifecycle">
     <mxGraphModel dx="1033" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="JgurNCQ8JFH9-shRPi3R-1" value="Preparation" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1AAE9F;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="114" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YMquRcJHeu3EPso7d4XN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgurNCQ8JFH9-shRPi3R-2" target="YMquRcJHeu3EPso7d4XN-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JgurNCQ8JFH9-shRPi3R-2" value="Identification" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=none;fillColor=#F7C325;" parent="1" vertex="1">
           <mxGeometry x="274" y="550" width="120" height="60" as="geometry" />
@@ -54,9 +51,6 @@
         </mxCell>
         <mxCell id="JgurNCQ8JFH9-shRPi3R-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=7;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="424" y="440" width="140" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="YMquRcJHeu3EPso7d4XN-1" value="Identification" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=none;fillColor=#F7C325;" vertex="1" parent="1">
-          <mxGeometry x="274" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
