@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T23:22:15.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="dLHikCuaMZHMNBWIwK6T" version="20.7.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-26T23:24:53.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uGV1B-XaA5gs7oRijUnb" version="20.6.2" type="github" pages="7">
   <diagram id="ySvaeIhlYubQLGQfKe-j" name="Figure 1 IR Lifecycle">
-    <mxGraphModel dx="2540" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JgurNCQ8JFH9-shRPi3R-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#999999;endArrow=block;endFill=1;" parent="1" source="JgurNCQ8JFH9-shRPi3R-1" target="JgurNCQ8JFH9-shRPi3R-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3Gu2K2IxgC_KkYflHN0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JgurNCQ8JFH9-shRPi3R-1" target="e3Gu2K2IxgC_KkYflHN0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JgurNCQ8JFH9-shRPi3R-1" value="Preparation" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1AAE9F;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -51,6 +54,9 @@
         </mxCell>
         <mxCell id="JgurNCQ8JFH9-shRPi3R-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=7;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="424" y="440" width="140" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="e3Gu2K2IxgC_KkYflHN0-1" value="Preparation" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1AAE9F;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="114" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
