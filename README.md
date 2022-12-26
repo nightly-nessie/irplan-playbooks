@@ -1,2 +1,1 @@
-# irplan-playbooks
-IR Plan and Playbook Templates
+# IR Plan and Playbook Templates
